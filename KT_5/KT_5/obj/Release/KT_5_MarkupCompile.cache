@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\comcuru\Desktop\ivanov maxim\kt5new\KT_5\KT_5\obj\Debug\
+C:\Users\comcuru\Desktop\ivanov maxim\kt5new\KT_5\KT_5\obj\Release\
 KT_5
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\comcuru\Desktop\ivanov maxim\kt5new\KT_5\KT_5\App.xaml
 2-190226963
 21846636967
-14-579625302
+13262734065
 181577932187
 MainWindow.xaml;Page\login.xaml;
 

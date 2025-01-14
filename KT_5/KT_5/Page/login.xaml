@@ -7,11 +7,22 @@
         mc:Ignorable="d"
         Title="login" Height="450" Width="800">
     <Grid>
+        
+
         <Label Background="#FF76E383" Margin="0,0,0,360"></Label>
+        <Image Source="/KT_5;component/res/logo.png" Width="50" Margin="10,-22,732,331"></Image>
         
         <StackPanel>
             <TextBlock Text="ИС по прокату спортивного инвентаря"  Margin="230,20,190,100" FontFamily="Comic Sans MS" FontSize="20"></TextBlock>
+            <TextBlock Text="Login:" FontFamily="Comic Sans MS" FontSize="16"  Margin="346,-40,374,1" Height="33" />
+            <TextBox Width="100" Height="20"></TextBox>
+            <TextBlock Text="Password:" FontFamily="Comic Sans MS" FontSize="16"  Margin="346,15,318,1" Height="33"/>
+            <PasswordBox Width="100" Height="20"></PasswordBox>
+            <Button Content="Войти" Width="100" Height="26" Margin="0,40,0,0" FontFamily="Comic Sans MS" FontSize="16" ></Button>
+           
             
+            
+
         </StackPanel>
     </Grid>
 </Window>

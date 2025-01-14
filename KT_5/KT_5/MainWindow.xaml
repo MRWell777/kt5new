@@ -7,6 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Label Background="#FF76E383" Margin="0,0,0,360"></Label>
+        <Image Source="/KT_5;component/res/logo.png" Width="50" Margin="10,-22,732,331"></Image>
+        <TextBlock Text="ИС по прокату спортивного инвентаря"  Margin="230,20,190,100" FontFamily="Comic Sans MS" FontSize="20"></TextBlock>
     </Grid>
 </Window>
