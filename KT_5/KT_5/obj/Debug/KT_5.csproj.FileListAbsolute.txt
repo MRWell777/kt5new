@@ -1,0 +1,15 @@
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\bin\Debug\KT_5.exe.config
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\bin\Debug\KT_5.exe
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\bin\Debug\KT_5.pdb
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5.csproj.AssemblyReference.cache
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\MainWindow.g.cs
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\App.g.cs
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5_MarkupCompile.cache
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5_MarkupCompile.lref
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\MainWindow.baml
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5.g.resources
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5.Properties.Resources.resources
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5.csproj.GenerateResource.cache
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5.csproj.CoreCompileInputs.cache
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5.exe
+C:\Users\comcuru\Desktop\Иванов Максим\KT_5\KT_5\obj\Debug\KT_5.pdb
